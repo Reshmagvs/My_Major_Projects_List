@@ -11,8 +11,6 @@ This repo is designed to:
 
 ## 🗂️ Project Index
 
-## 🗂️ Project Index
-
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
 | **Brew Bot** ☕ | An automated beverage-making app designed to prepare custom drinks via voice commands or mobile app | Arduino, NodeMCU, Python, Google Assistant | [View Repo](https://github.com/Reshmagvs/Brew_Bot) |
