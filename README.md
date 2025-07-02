@@ -11,12 +11,13 @@ This repo is designed to:
 
 ## 🗂️ Project Index
 
+## 🗂️ Project Index
+
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-
 | **Brew Bot** ☕ | An automated beverage-making app designed to prepare custom drinks via voice commands or mobile app | Arduino, NodeMCU, Python, Google Assistant | [View Repo](https://github.com/Reshmagvs/Brew_Bot) |
-| **Smart Plant Care System** | An IoT and AI-based system for monitoring and caring for indoor plants | c++, Arduino, MITApp | [View Repo](https://github.com/Reshmagvs/Smart-Plant-Care-System) |
-| **Personal Portfolio Website** | A responsive portfolio website showcasing my work and resume | HTML, CSS, JavaScript , Vercel  | [View Repo](https://github.com/yourusername/portfolio-website) |
+| **Smart Plant Care System** | An IoT and AI-based system for monitoring and caring for indoor plants | C++, Arduino, MIT App Inventor | [View Repo](https://github.com/Reshmagvs/Smart-Plant-Care-System) |
+| **Personal Portfolio Website** | A responsive portfolio website showcasing my work and resume | HTML, CSS, JavaScript, Vercel | [View Repo](https://github.com/yourusername/portfolio-website) |
 
 ✨ *More projects will be added as I continue building and learning!*
 
